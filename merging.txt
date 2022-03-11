@@ -2,3 +2,5 @@ Synopsis
 when we clone there is no need to give origin as it will take cloned url as origin
 so git push alone is enough
 
+##Trying pull request and motive is to update merging.txt in main with this line
+
